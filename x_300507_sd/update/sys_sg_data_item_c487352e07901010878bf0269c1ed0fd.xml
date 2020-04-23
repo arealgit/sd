@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Service Desk Incident</name>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-23 20:32:13</sys_created_on>
+        <sys_id>c487352e07901010878bf0269c1ed0fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Desk Incident</sys_name>
+        <sys_package display_value="Service Desk" source="x_300507_sd">7217f5ea07901010878bf0269c1ed034</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Desk">7217f5ea07901010878bf0269c1ed034</sys_scope>
+        <sys_update_name>sys_sg_data_item_c487352e07901010878bf0269c1ed0fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-23 20:32:13</sys_updated_on>
+        <table>incident</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=c487352e07901010878bf0269c1ed0fd"/>
+</record_update>

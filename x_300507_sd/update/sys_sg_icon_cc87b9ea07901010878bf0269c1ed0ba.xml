@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Name":"Home"}</icon>
+        <name>Home Service Desk</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-23 20:32:13</sys_created_on>
+        <sys_id>cc87b9ea07901010878bf0269c1ed0ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home Service Desk</sys_name>
+        <sys_package display_value="Service Desk" source="x_300507_sd">7217f5ea07901010878bf0269c1ed034</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Desk">7217f5ea07901010878bf0269c1ed034</sys_scope>
+        <sys_update_name>sys_sg_icon_cc87b9ea07901010878bf0269c1ed0ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-23 20:32:13</sys_updated_on>
+        <type>image</type>
+    </sys_sg_icon>
+</record_update>

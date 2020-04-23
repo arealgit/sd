@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="Catalog Task Item Stream">5887752e07901010878bf0269c1ed079</item_stream>
+        <segment display_value="Catalog Task Item Stream Segment">dc87752e07901010878bf0269c1ed078</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-23 20:32:15</sys_created_on>
+        <sys_id>5487752e07901010878bf0269c1ed07a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Service Desk" source="x_300507_sd">7217f5ea07901010878bf0269c1ed034</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Desk">7217f5ea07901010878bf0269c1ed034</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_5487752e07901010878bf0269c1ed07a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-23 20:32:15</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>
